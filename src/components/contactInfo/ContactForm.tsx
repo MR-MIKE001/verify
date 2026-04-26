@@ -49,7 +49,7 @@ const ContactForm: React.FC = () => {
           </label>
           <input
             type="text"
-            name="user_name"
+            name="from_name"
             required
             placeholder="Mike John"
             className="px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-700 bg-transparent text-gray-800 dark:text-white focus:outline-none focus:ring-2 focus:ring-[#2952E3]"
@@ -63,7 +63,7 @@ const ContactForm: React.FC = () => {
           </label>
           <input
             type="email"
-            name="user_email"
+            name="from_email"
             required
             placeholder="mike@example.com"
             className="px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-700 bg-transparent text-gray-800 dark:text-white focus:outline-none focus:ring-2 focus:ring-[#2952E3]"
