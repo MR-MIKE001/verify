@@ -1,0 +1,17 @@
+<svg width="400" height="160" viewBox="0 0 400 160" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>SkillVerification logo — transparent background</title>
+<desc>SkillVerification platform logo with shield mark and wordmark, no background</desc>
+
+<!-- Shield mark centred at 200,52 -->
+<g transform="translate(200,52)">
+  <path d="M0,-42 L36,-20 L36,16 Q36,44 0,58 Q-36,44 -36,16 L-36,-20 Z" fill="#1A3FCC"/>
+  <path d="M0,-35 L29,-17 L29,14 Q29,38 0,50 Q-29,38 -29,14 L-29,-17 Z" fill="#1740D6" opacity="0.5"/>
+  <text x="-14" y="3" font-family="monospace,'Courier New'" font-size="15" font-weight="700" fill="white" opacity="0.55">&lt;/&gt;</text>
+  <circle cx="17" cy="-14" r="11" fill="#22C55E"/>
+  <path d="M13 -14 L16 -11 L22 -18" fill="none" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+
+<!-- Wordmark -->
+<text x="200" y="128" font-family="'Arial Black','Helvetica Neue',Arial,sans-serif" font-size="32" font-weight="900" fill="#0F2BA8" text-anchor="middle" letter-spacing="-1">Skill<tspan fill="#2952E3">Verification</tspan></text>
+
+</svg>
