@@ -7,7 +7,6 @@ const ContactForm: React.FC = () => {
 
   const sendEmail = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-console.log(import.meta.env.VITE_EMAILJS_SERVICE_ID);
     if (!formRef.current) return;
 
     emailjs
