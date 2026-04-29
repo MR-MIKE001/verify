@@ -5,7 +5,7 @@ import Info from "../components/info/Info";
 function Home() {
   return (
     <AppLayout page={"home"}>
-        <Info title="Welcome to SkillVerify" description="Your one-stop solution for verifying and showcasing your skills. Connect with employers, share your verified skills, and take control of your professional journey." page="home"/>
+        <Info title=" Skills signature" description="Your one-stop solution for verifying and showcasing your skills. Connect with employers, share your verified skills, and take control of your professional journey." page="home"/>
         <HowItWork />
     </AppLayout> 
   )

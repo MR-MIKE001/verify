@@ -5,7 +5,7 @@ function Footer() {
       <div className="flex items-center justify-around  ">
         <img src={logo} alt="SkillVerify Logo" className="h-15" />
        <p className="text-sm px-2">
-        for more information, call us at <a href="tel:+2347086131540" className="text-slate-300 hover:underline">+234 708 613 1540</a><br/> or email us at <a href="mailto:aimrmike5@gmail.com" className="text-slate-300 hover:underline">aimrmike5@gmail.com</a>
+        for more information, call us at <a href="tel:+2347086131540" className="text-slate-300 hover:underline">+234 708 613 1540</a><br/> or email us at <a href="mailto:info@skillsignature.com" className="text-slate-300 hover:underline">info@skillsignature.com</a>
         </p>
       </div>
       

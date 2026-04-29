@@ -9,11 +9,7 @@ function HowItWork() {
           How It Work
         </h2>
          <p className="max-w-xl mx-auto text-gray-600 dark:text-gray-300 mt-2 text-center">
-          SkillVerify is a platform that allows users to verify their skills and
-          showcase them to potential employers. Users can create a profile,
-          add their skills, and connect with employers who are looking for
-          specific skills. Employers can also search for candidates based on
-          their verified skills and contact them directly through the platform.
+          Skills signature is a cutting-edge platform designed to revolutionize the way individuals verify and showcase their skills. Our mission is to empower professionals by providing a secure and efficient way to validate their expertise, connect with employers, and take control of their career growth.
         </p>
       </div>
       <div className="flex flex-col gap-2 w-full bg-white dark:bg-[#111]  px-6 sm:px-8 md:flex-row items-center justify-center rounded-lg shadow-md">
